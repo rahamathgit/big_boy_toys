@@ -31,7 +31,7 @@ const {addToCart} = useContext(ShopContext);
                     <img src={icon_star} style={{width:"20px"}} alt=""/>
                     <img src={icon_star} style={{width:"20px"}} alt=""/>
                     <img src={icon_dull} style={{width:"17px"}} alt=""/>
-                    <p>(122)</p>
+                    <p>(122 Reviews)</p>
                 </div>
                 <div className="displayproduct-right-prices">
                     <div className="displayproduct-right-price-old">
